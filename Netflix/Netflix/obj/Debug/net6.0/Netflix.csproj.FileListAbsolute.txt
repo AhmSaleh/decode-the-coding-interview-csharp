@@ -1,0 +1,15 @@
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\bin\Debug\net6.0\Netflix.exe
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\bin\Debug\net6.0\Netflix.deps.json
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\bin\Debug\net6.0\Netflix.runtimeconfig.json
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\bin\Debug\net6.0\Netflix.dll
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\bin\Debug\net6.0\Netflix.pdb
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.csproj.AssemblyReference.cache
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.AssemblyInfo.cs
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.dll
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\refint\Netflix.dll
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.pdb
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\Netflix.genruntimeconfig.cache
+C:\Users\Ahmed.Saleh\Desktop\C# Decode\Netflix\Netflix\obj\Debug\net6.0\ref\Netflix.dll
