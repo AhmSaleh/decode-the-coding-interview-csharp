@@ -1,4 +1,6 @@
-﻿namespace Netflix
+﻿using Netflix.Feature_3;
+
+namespace Netflix
 {
     public class Program
     {
@@ -42,8 +44,39 @@
             //} 
             #endregion
 
+            // Feature 2
+            #region Feature 3
+
+
+            #endregion
+
+
+
+            MinHeap heap = new();
+
+            heap.Push(10);
+            heap.Push(10);
+            heap.Push(2);
+            heap.Push(20);
+            heap.Push(1);
+
+
+
+
+            Console.WriteLine($"{heap.Pop()} \n\n\n\n\n\n");
+            Console.WriteLine($"{heap.Pop()} \n\n\n\n\n\n");
+
+
+            heap.show();
 
         }
+
+
+        //static addAge(int age) { 
+
+        //}
+
+
 
 
 
