@@ -52,22 +52,25 @@ namespace Netflix
 
 
 
-            MinHeap heap = new();
+            //MinHeap heap = new();
 
-            heap.Push(10);
-            heap.Push(10);
-            heap.Push(2);
-            heap.Push(20);
-            heap.Push(1);
-
-
+            //heap.Push(10);
+            //heap.Push(10);
+            //heap.Push(2);
+            //heap.Push(20);
+            //heap.Push(1);
 
 
-            Console.WriteLine($"{heap.Pop()} \n\n\n\n\n\n");
-            Console.WriteLine($"{heap.Pop()} \n\n\n\n\n\n");
+            //heap.show();
 
+            Feature3.addAge(1);
+            Feature3.addAge(7);
+            Feature3.addAge(8);
+            Feature3.addAge(7);
+            Feature3.addAge(2);
+            Feature3.addAge(10);
 
-            heap.show();
+            Console.WriteLine(Feature3.getMedianOfAges());
 
         }
 
