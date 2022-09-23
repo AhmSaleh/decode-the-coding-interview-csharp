@@ -71,8 +71,16 @@
             //}
             #endregion
 
+            // Feature 5
+            #region Feature 5
+            //Feature5.Visit(1);
+            //Feature5.Visit(2);
+            //Feature5.Visit(3);
+            //Feature5.Visit(1);
+            //Feature5.Visit(2);
 
-
+            //Console.WriteLine(Feature5.GetRecentViewedMovie());
+            #endregion
 
 
         }
