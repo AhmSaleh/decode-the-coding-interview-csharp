@@ -82,7 +82,19 @@
             //Console.WriteLine(Feature5.GetRecentViewedMovie());
             #endregion
 
+            // Feature 7
+            #region Feature 7
+            //Feature7.push(5);
+            //Feature7.push(0);
+            //Feature7.push(2);
+            //Feature7.push(4);
+            //Feature7.push(6);
+            //Feature7.push(3);
+            //Feature7.push(10);
 
+            //Console.WriteLine(Feature7.Back());
+            //Console.WriteLine(Feature7.MaxValue);
+            #endregion
         }
 
 
