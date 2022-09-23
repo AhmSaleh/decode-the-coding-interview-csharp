@@ -1,6 +1,4 @@
-﻿using Netflix.Feature_3;
-
-namespace Netflix
+﻿namespace Netflix
 {
     public class Program
     {
@@ -44,40 +42,42 @@ namespace Netflix
             //} 
             #endregion
 
-            // Feature 2
-            #region Feature 3
+            // Feature 3
+            #region Feature 3         
+            //Feature3.addAge(1);
+            //Feature3.addAge(7);
+            //Feature3.addAge(8);
+            //Feature3.addAge(7);
+            //Feature3.addAge(2);
+            //Feature3.addAge(10);
+
+            //Console.WriteLine(Feature3.getMedianOfAges());
+
+            #endregion
+
+            // Feature 4
+            #region Feature 4        
+            //var titles = new List<List<int>>()
+            //{
+            //    new List<int>(){1,2,2,3},
+            //    new List<int>(){4,5,6,3,4},
+            //    new List<int>(){8,8,7,6,5,4,4,1}
+            //};
 
 
+            //foreach (var item in titles)
+            //{
+            //    Console.WriteLine(Feature4.identifyTitles(item));
+            //}
             #endregion
 
 
 
-            //MinHeap heap = new();
 
-            //heap.Push(10);
-            //heap.Push(10);
-            //heap.Push(2);
-            //heap.Push(20);
-            //heap.Push(1);
-
-
-            //heap.show();
-
-            Feature3.addAge(1);
-            Feature3.addAge(7);
-            Feature3.addAge(8);
-            Feature3.addAge(7);
-            Feature3.addAge(2);
-            Feature3.addAge(10);
-
-            Console.WriteLine(Feature3.getMedianOfAges());
 
         }
 
 
-        //static addAge(int age) { 
-
-        //}
 
 
 
